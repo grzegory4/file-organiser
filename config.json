@@ -1,0 +1,42 @@
+{
+    "sorting_rules": {
+        "Images": [
+            "png",
+            "jpg",
+            "jpeg",
+            "gif",
+            "bmp",
+            "webp"
+        ],
+        "Videos": [
+            "mp4",
+            "mkv",
+            "mov",
+            "avi"
+        ],
+        "Music": [
+            "mp3",
+            "wav",
+            "flac"
+        ],
+        "Documents": [
+            "pdf",
+            "doc",
+            "docx",
+            "xls",
+            "xlsx",
+            "txt"
+        ],
+        "Archives": [
+            "zip",
+            "rar",
+            "7z"
+        ],
+        "Scripts": [
+            "py",
+            "sh",
+            "bat"
+        ]
+    },
+    "default_folder": "Others"
+}
